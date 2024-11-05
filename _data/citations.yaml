@@ -218,6 +218,23 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/tpj.16577
+  title: "Utilizing high\u2010resolution ribosome profiling for the global investigation\
+    \ of gene expression in <i>Chlamydomonas</i>"
+  authors:
+  - Vincent Leon Gotsmann
+  - Michael Kien Yin Ting
+  - Nadin Haase
+  - Sophia Rudorf
+  - Reimo Zoschke
+  - Felix Willmund
+  publisher: The Plant Journal
+  date: '2023-12-04'
+  link: https://doi.org/g8p7m4
+  type: paper
+  description: test
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
