@@ -231,10 +231,466 @@
   publisher: The Plant Journal
   date: '2023-12-04'
   link: https://doi.org/g8p7m4
-  type: paper
-  description: test
+  orcid: 0000-0002-3988-4590
   plugin: sources.py
   file: sources.yaml
+  type: paper
+  description: test
+- id: doi:10.1101/2023.09.29.560113
+  title: Networked proteins redundantly interact with VAP27 and RABG3 to regulate
+    membrane tethering at the vacuole and beyond
+  authors:
+  - Sabrina Kaiser
+  - Dietmar Mehlhorn
+  - Paulina Ramirez Miranda
+  - Fabian Ries
+  - Frederik Sommer
+  - Michael Schroda
+  - Karin Schumacher
+  - Felix Willmund
+  - Christopher Grefen
+  - David Scheuring
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-09-29'
+  link: https://doi.org/g8p7m6
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.13.528309
+  title: Utilizing high resolution ribosome profiling for the global investigation
+    of gene expression in<i>Chlamydomonas</i>
+  authors:
+  - Vincent Leon Gotsmann
+  - Michael Kien Yin Ting
+  - Nadin Haase
+  - Sophia Rudorf
+  - Reimo Zoschke
+  - Felix Willmund
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-13'
+  link: https://doi.org/g8p7m7
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.05.522938
+  title: Competition co-immunoprecipitation reveals interactors of the chloroplast
+    CPN60 chaperonin machinery
+  authors:
+  - Fabian Ries
+  - Heinrich Lukas Weil
+  - Claudia Herkt
+  - "Timo M\xFChlhaus"
+  - Frederik Sommer
+  - Michael Schroda
+  - Felix Willmund
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-05'
+  link: https://doi.org/g8p7m8
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1107/S2059798322009068
+  title: "Structural features of chloroplast trigger factor determined at 2.6\u2005\
+    \xC5 resolution"
+  authors:
+  - Yvonne Carius
+  - Fabian Ries
+  - Karin Gries
+  - Oliver Trentmann
+  - C. Roy D. Lancaster
+  - Felix Willmund
+  publisher: Acta Crystallographica Section D Structural Biology
+  date: '2022-09-27'
+  link: https://doi.org/g8p7m9
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-021-25288-x
+  title: Systems approaches identify the consequences of monosomy in somatic human
+    cells
+  authors:
+  - Narendra Kumar Chunduri
+  - Paul Menges
+  - Xiaoxiao Zhang
+  - Angela Wieland
+  - Vincent Leon Gotsmann
+  - Balca R. Mardin
+  - Christopher Buccitelli
+  - Jan O. Korbel
+  - Felix Willmund
+  - Maik Kschischo
+  - Markus Raeschle
+  - Zuzana Storchova
+  publisher: Nature Communications
+  date: '2021-09-22'
+  link: https://doi.org/gsvr6z
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.02.22.432226
+  title: Systems approaches identify the consequences of monosomy in somatic human
+    cells
+  authors:
+  - Narendra Kumar Chunduri
+  - Paul Menges
+  - Vincent Leon Gotsmann
+  - Xiaoxiao Zhang
+  - Balca R. Mardin
+  - Christopher Buccitelli
+  - Jan O. Korbel
+  - Felix Willmund
+  - Maik Kschischo
+  - Markus Raeschle
+  - Zuzana Storchova
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-02-23'
+  link: https://doi.org/gsxsrx
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1008326
+  title: CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere
+    vectors allows highly efficient marker-free and multiple genome editing in Botrytis
+    cinerea
+  authors:
+  - Thomas Leisen
+  - Fabian Bietz
+  - Janina Werner
+  - Alex Wegner
+  - Ulrich Schaffrath
+  - David Scheuring
+  - Felix Willmund
+  - Andreas Mosbach
+  - Gabriel Scalliet
+  - Matthias Hahn
+  publisher: PLOS Pathogens
+  date: '2020-08-17'
+  link: https://doi.org/gg88b8
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.01.20.912576
+  title: CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere
+    vectors allows highly efficient marker-free and multiple genome editing in<i>Botrytis
+    cinerea</i>
+  authors:
+  - Thomas Leisen
+  - Fabian Bietz
+  - Janina Werner
+  - Alex Wegner
+  - Ulrich Schaffrath
+  - David Scheuring
+  - Felix Willmund
+  - Andreas Mosbach
+  - Gabriel Scalliet
+  - Matthias Hahn
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-01-20'
+  link: https://doi.org/gkwfvx
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2019.12.12.874503
+  title: The proteomic inventory reveals the chloroplast ribosome as nexus within
+    a diverse protein network
+  authors:
+  - "Lisa D\xE9sir\xE9e Westrich"
+  - Vincent Leon Gotsmann
+  - Claudia Herkt
+  - Fabian Ries
+  - Tanja Kazek
+  - "Raphael Tr\xF6sch"
+  - Silvia Ramundo
+  - "J\xF6rg Nickelsen"
+  - Laura Armbruster
+  - Markus Wirtz
+  - "Zuzana Storchov\xE1"
+  - Markus Raeschle
+  - Felix Willmund
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-12-16'
+  link: https://doi.org/gk29d6
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1104/pp.18.01252
+  title: The Role of Plastidic Trigger Factor Serving Protein Biogenesis in Green
+    Algae and Land Plants
+  authors:
+  - Marina Rohr
+  - Fabian Ries
+  - Claudia Herkt
+  - Vincent Leon Gotsmann
+  - "Lisa D\xE9sir\xE9e Westrich"
+  - Karin Gries
+  - "Raphael Tr\xF6sch"
+  - Jens Christmann
+  - Frederic Chaux-Jukic
+  - Martin Jung
+  - David Zimmer
+  - "Timo M\xFChlhaus"
+  - Frederik Sommer
+  - Michael Schroda
+  - Sandro Keller
+  - "Torsten M\xF6hlmann"
+  - Felix Willmund
+  publisher: Plant Physiology
+  date: '2019-01-16'
+  link: https://doi.org/g8p7nb
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41477-018-0211-0
+  title: Commonalities and differences of chloroplast translation in a green alga
+    and land plants
+  authors:
+  - "Raphael Tr\xF6sch"
+  - Rouhollah Barahimipour
+  - Yang Gao
+  - "Jes\xFAs Agust\xEDn Badillo-Corona"
+  - Vincent Leon Gotsmann
+  - David Zimmer
+  - "Timo M\xFChlhaus"
+  - Reimo Zoschke
+  - Felix Willmund
+  publisher: Nature Plants
+  date: '2018-07-30'
+  link: https://doi.org/gd9m6m
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/hsz-2018-0436
+  title: 'The conserved theme of ribosome hibernation: from bacteria to chloroplasts
+    of plants'
+  authors:
+  - "Raphael Tr\xF6sch"
+  - Felix Willmund
+  publisher: Biological Chemistry
+  date: '2019-02-01'
+  link: https://doi.org/g8p7nc
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11103-017-0672-y
+  title: Substrates of the chloroplast small heat shock proteins 22E/F point to thermolability
+    as a regulative switch for heat acclimation in Chlamydomonas reinhardtii
+  authors:
+  - "Mark R\xFCtgers"
+  - Ligia Segatto Muranaka
+  - "Timo M\xFChlhaus"
+  - Frederik Sommer
+  - Sylvia Thoms
+  - Juliane Schurig
+  - Felix Willmund
+  - Miriam Schulz-Raffelt
+  - Michael Schroda
+  publisher: Plant Molecular Biology
+  date: '2017-11-01'
+  link: https://doi.org/gcnjkb
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-10625-2
+  title: Structural and molecular comparison of bacterial and eukaryotic trigger factors
+  authors:
+  - Fabian Ries
+  - Yvonne Carius
+  - Marina Rohr
+  - Karin Gries
+  - Sandro Keller
+  - C. Roy D. Lancaster
+  - Felix Willmund
+  publisher: Scientific Reports
+  date: '2017-09-06'
+  link: https://doi.org/gbwj4k
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/pce.13060
+  title: Not changes in membrane fluidity but proteotoxic stress triggers heat shock
+    protein expression in <scp><i>Chlamydomonas reinhardtii</i></scp>
+  authors:
+  - "Mark R\xFCtgers"
+  - Ligia Segatto Muranaka
+  - "Miriam Schulz\u2010Raffelt"
+  - Sylvia Thoms
+  - Juliane Schurig
+  - Felix Willmund
+  - Michael Schroda
+  publisher: Plant, Cell &amp; Environment
+  date: '2017-09-27'
+  link: https://doi.org/g8p7nd
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbabio.2015.01.002
+  title: "ATP-dependent molecular chaperones in plastids \u2014 More complex than\
+    \ expected"
+  authors:
+  - "Raphael Tr\xF6sch"
+  - "Timo M\xFChlhaus"
+  - Michael Schroda
+  - Felix Willmund
+  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  date: '2015-09-01'
+  link: https://doi.org/f7jw2f
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2014.09.056
+  title: A Direct Regulatory Interaction between Chaperonin TRiC and Stress-Responsive
+    Transcription Factor HSF1
+  authors:
+  - "Daniel\_W. Neef"
+  - "Alex\_M. Jaeger"
+  - Rocio Gomez-Pastor
+  - Felix Willmund
+  - Judith Frydman
+  - "Dennis\_J. Thiele"
+  publisher: Cell Reports
+  date: '2014-11-01'
+  link: https://doi.org/f6vng7
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-1136-3_13
+  title: Molecular Chaperone Functions in Plastids
+  authors:
+  - "Raphael Tr\xF6sch"
+  - Michael Schroda
+  - Felix Willmund
+  publisher: Plastid Biology
+  date: '2014-01-01'
+  link: https://doi.org/g8p7nf
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2013.01.020
+  title: The Ribosome as a Hub for Protein Quality Control
+  authors:
+  - Sebastian Pechmann
+  - Felix Willmund
+  - Judith Frydman
+  publisher: Molecular Cell
+  date: '2013-02-01'
+  link: https://doi.org/f4k9h9
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2012.12.001
+  title: The Cotranslational Function of Ribosome-Associated Hsp70 in Eukaryotic Protein
+    Homeostasis
+  authors:
+  - Felix Willmund
+  - "Marta del\_Alamo"
+  - Sebastian Pechmann
+  - Taotao Chen
+  - "V\xE9ronique Alban\xE8se"
+  - "Eric\_B. Dammer"
+  - Junmin Peng
+  - Judith Frydman
+  publisher: Cell
+  date: '2013-01-01'
+  link: https://doi.org/f4jpgr
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1042/bj20091412
+  title: "Chloroplast DnaJ-like proteins 3 and 4 (CDJ3/4) from <i>Chlamydomonas reinhardtii</i>\
+    \ contain redox-active Fe\u2013S clusters and interact with stromal HSP70B"
+  authors:
+  - "Karolin\_V. Dorn"
+  - Felix Willmund
+  - Christian Schwarz
+  - Christine Henselmann
+  - Thomas Pohl
+  - Barbara Hess
+  - Daniel Veyel
+  - "Bj\xF6rn Usadel"
+  - Thorsten Friedrich
+  - "J\xF6rg Nickelsen"
+  - Michael Schroda
+  publisher: Biochemical Journal
+  date: '2010-03-29'
+  link: https://doi.org/dj7p86
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.m708431200
+  title: Assistance for a Chaperone
+  authors:
+  - Felix Willmund
+  - Manuela Hinnenberger
+  - Sabine Nick
+  - Miriam Schulz-Raffelt
+  - "Timo M\xFChlhaus"
+  - Michael Schroda
+  publisher: Journal of Biological Chemistry
+  date: '2008-06-01'
+  link: https://doi.org/ctx725
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-313x.2007.03047.x
+  title: "The chloroplast HSP70B\u2010CDJ2\u2010CGE1 chaperones catalyse assembly\
+    \ and disassembly of VIPP1 oligomers in <i>Chlamydomonas</i>"
+  authors:
+  - Cuimin Liu
+  - Felix Willmund
+  - Jochen R. Golecki
+  - Sabrina Cacace
+  - "Barbara He\xDF"
+  - Christine Markert
+  - Michael Schroda
+  publisher: The Plant Journal
+  date: '2007-03-21'
+  link: https://doi.org/cw3s78
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.m608854200
+  title: The NH2-terminal Domain of the Chloroplast GrpE Homolog CGE1 Is Required
+    for Dimerization and Cochaperone Function in Vivo
+  authors:
+  - Felix Willmund
+  - "Timo M\xFChlhaus"
+  - Maria Wojciechowska
+  - Michael Schroda
+  publisher: Journal of Biological Chemistry
+  date: '2007-04-01'
+  link: https://doi.org/fhs84d
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1104/pp.105.063578
+  title: HEAT SHOCK PROTEIN 90C Is a Bona Fide Hsp90 That Interacts with Plastidic
+    HSP70B in <i>Chlamydomonas reinhardtii</i>
+  authors:
+  - Felix Willmund
+  - Michael Schroda
+  publisher: Plant Physiology
+  date: '2005-07-01'
+  link: https://doi.org/dkjst4
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1091/mbc.e04-08-0736
+  title: J-Domain Protein CDJ2 and HSP70B Are a Plastidic Chaperone Pair That Interacts
+    with Vesicle-Inducing Protein in Plastids 1
+  authors:
+  - Cuimin Liu
+  - Felix Willmund
+  - Julian P. Whitelegge
+  - Susan Hawat
+  - Bettina Knapp
+  - Mukesh Lodha
+  - Michael Schroda
+  publisher: Molecular Biology of the Cell
+  date: '2005-03-01'
+  link: https://doi.org/fp78d6
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
