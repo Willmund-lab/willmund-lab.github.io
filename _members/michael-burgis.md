@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Michael Burgis
 image: images/photo.jpg
 role: phd
-group: alum
-links:
-  github: john-doe
+affiliation: Philipps University of Marburg
+github: burgism
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
