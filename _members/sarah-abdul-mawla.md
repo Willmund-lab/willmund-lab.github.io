@@ -1,6 +1,6 @@
 ---
-name: Ramona Zülch
-image: images/team/Ramona_Zuelch.jpg
+name: Sarah Abdul-Mawla
+image: images/team/Sarah_Abdul_Mawla.jpg
 role: master
 affiliation: Philipps University of Marburg
 group: master

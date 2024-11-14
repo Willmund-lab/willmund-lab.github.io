@@ -1,7 +1,7 @@
 ---
-name: Sara Abdul-Mawla
-image: images/team/Sarah_Abdul_Mawla.jpg
-role: master
+name: Cedric Brinkmann
+image: images/team/Cedric_Brinkmann.jpg
+role: hiwi
 affiliation: Philipps University of Marburg
 ---
 

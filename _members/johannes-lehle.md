@@ -1,6 +1,6 @@
 ---
 name: Johannes Lehle
-image: images/team/photo.jpg
+image: images/photo.jpg
 role: master
 affiliation: Philipps University of Marburg
 ---
