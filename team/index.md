@@ -20,7 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 ## Bachelor/Master students
-{% include list.html data="members" component="portrait" filters="role: master" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: bachelor" style="small" %}
+{% include list.html data="members" component="portrait" filters="role == 'master'" style="small" %}
+{% include list.html data="members" component="portrait" filters="role == 'bachelor'" style="small" %}
 
 {% include section.html %}
