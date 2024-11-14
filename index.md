@@ -1,4 +1,8 @@
 ---
+title: Home
+nav:
+  order: 1
+  tooltip: Homepage
 ---
 
 # Willmund-lab's Website
