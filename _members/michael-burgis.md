@@ -1,6 +1,6 @@
 ---
 name: Michael Burgis
-image: images/member/Michael-Burgis.jpg
+image: images/team/Michael-Burgis.jpg
 role: phd
 affiliation: Philipps University of Marburg
 links:

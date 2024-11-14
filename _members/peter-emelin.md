@@ -1,6 +1,6 @@
 ---
 name: Peter Emelin
-image: images/member/Peter_Emelin.jpg
+image: images/team/Peter_Emelin.jpg
 role: phd
 affiliation: Philipps University of Marburg
 links:
