@@ -5,9 +5,10 @@ nav:
   tooltip: Homepage
 ---
 
-# Willmund-lab's Website
+# Willmund-lab
 
-An engaging 1-3 sentence description of your lab.
+
+Our lab focuses on understanding the factors regulating protein synthesis during acclimation and stress resilience in plants. We investigate protein biogenesis and photosystem assembly in the chloroplast, as well as explore innovative approaches in chloroplast synthetic biology.
 
 {% include section.html %}
 
@@ -15,7 +16,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The main focus of our lab is about understanding the complex formation of the photosynthetic machinery in the chloroplast, stress resiliance in photosynthetic organisms, identifying protein synthesis regulators during acclimation and how to harness the chloroplast gene-expression apparatus for synthetic biology. 
 
 {%
   include button.html
@@ -30,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Flasks.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -38,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We offer a variety of exciting projects for students, ranging from investigating the molecular mechanisms of protein synthesis in chloroplasts to developing innovative tools for synthetic biology. Our projects provide hands-on experience with cutting-edge techniques and the opportunity to contribute to impactful research in plant biology.
 
 {%
   include button.html
@@ -53,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -63,7 +64,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the individuals behind our research. Our team page highlights the expertise and dedication of our scientists, students, and collaborators. Learn more about their backgrounds and research interests in plant biology.
+
 
 {%
   include button.html
@@ -78,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/AG_Gruppenbild_2024-08-29.jpg"
   link="team"
   title="Our Team"
   text=text
