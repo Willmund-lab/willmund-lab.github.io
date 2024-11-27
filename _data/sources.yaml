@@ -1,4 +1,77 @@
 - id: doi:10.1111/tpj.16577
-  type: paper
-  description: test
-  date: 2023-12-4
+  image: https://onlinelibrary.wiley.com/cms/asset/8ddc8221-75c2-4806-91d5-868b2be5000c/tpj16577-fig-0001-m.jpg
+
+- id: doi:10.1101/2023.09.29.560113
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/02/07/2023.09.29.560113/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1101/2023.02.13.528309
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/02/13/2023.02.13.528309/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1101/2023.01.05.522938
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2023.01.05.522938/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1107/S2059798322009068
+  image: https://journals.iucr.org/d/issues/2022/10/00/jv5013/jv5013fig1mag.jpg
+
+- id: doi:10.1038/s41467-021-25288-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-25288-x/MediaObjects/41467_2021_25288_Fig1_HTML.png?as=webp
+
+- id: doi:10.1101/2021.02.22.432226
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/02/23/2021.02.22.432226/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1371/journal.ppat.1008326
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.ppat.1008326/2/ppat.1008326.g005.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20241127%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241127T162631Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=62d5abfbd96f0b34761353d3f0da2b1650c342f13dacbf254d14fa7ae7c0cf18b84ef8fc8e334b4c99cd1ee055f69d3844c0c1c4b796ecf851fe24e8e4a71b074eb03a241dd43515f5bd4c8bde9cbe55722ef6308ef0357a177109a7f4eff2f25afdecfac59292bf71bb5021b01e402bf5447f3a22f2bc041c86b2ab83426fdfb4568f1850fa220bf06951730376bcb1c8cb507105378c48bff7cf936e9e2691bec3eaa8df32fa4d86285568951b2fcfb2d93227b4ea6123b5583733589735d317289cb0f37914d8a9d784359be6657091ee2fb2423e502a55877c78007107f0e479575dd2906fc1b8aae47e5b5833d352329383b617906dc606aea669f05749
+
+- id: doi:10.1101/2020.01.20.912576
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/01/20/2020.01.20.912576/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1101/2019.12.12.874503
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/12/16/2019.12.12.874503/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1515/hsz-2018-0436
+  image: https://www.degruyter.com/document/doi/10.1515/hsz-2018-0436/asset/graphic/j_hsz-2018-0436_fig_001.jpg
+
+- id: doi:10.1104/pp.18.01252
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/179/3/10.1104_pp.18.01252/2/m_plphys_v179_3_1093_f5.jpeg?Expires=1734956042&Signature=Wjl80Ywgxbe3AbJnuy~Tutfjw04qgMQh8RgTi8gcJloODI2Px1KWr1Xcor-Yw5auXgYuBdpvhqDkKi4bYdj06C97NWXYptSnmD1ABUIVNChOi63bW-xPW1SNqo0lIfYOZfwTO9EEQlGtuq~aquVFA30XdQ3HRIX6NfwL-gu9xreEot0EHV-2ZLKZeUXUfxD4WRSCF3aHRPsTHsSYH6JJF8MtRu9AeZE7q5rWyFzB9JwX9numMrK3Z5nTsmxGRftZiHaOWgcHQV-Lh3l6Xn4gAlAovpI0tSzTInlobgNV8WM~TmLDw0qyobMgixRvOZgW2eyPeivj-Mj0KMuoHU5HVg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1038/s41477-018-0211-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-018-0211-0/MediaObjects/41477_2018_211_Fig3_HTML.png?as=webp
+
+- id: doi:10.1007/s11103-017-0672-y
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11103-017-0672-y/MediaObjects/11103_2017_672_Fig3_HTML.gif?as=webp
+
+- id: doi:10.1111/pce.13060
+  image: https://onlinelibrary.wiley.com/cms/asset/fc1bfc30-42ec-496a-9021-1c20563a40c6/pce13060-fig-0004-m.jpg
+
+- id: doi:10.1038/s41598-017-10625-2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-017-10625-2/MediaObjects/41598_2017_10625_Fig2_HTML.jpg?as=webp
+
+- id: doi:10.1016/j.bbabio.2015.01.002
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0005272815000067-gr1.jpg
+
+- id: doi:10.1016/j.celrep.2014.09.056
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124714008390-gr2.jpg
+
+- id: doi:10.1007/978-1-4939-1136-3_13
+  image: https://media.springernature.com/w120/springer-static/cover-hires/book/978-1-4939-1136-3?as=webp
+
+- id: doi:10.1016/j.molcel.2013.01.020
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1097276513000841-gr1.jpg
+
+- id: doi:10.1016/j.cell.2012.12.001
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867412014869-fx1.jpg
+
+- id: doi:10.1042/bj20091412
+  image: https://port.silverchair-cdn.com/port/content_public/journal/biochemj/427/2/10.1042_bj20091412/2/m_bj4270205fig3.jpeg?Expires=1735181464&Signature=sJVAb7GoUgz7aJ9gtiOhuLO02XTob820hhT0wloepZv5~auDcSSw7OSQCJ0I7h1mUKcNLm88P-fFRJAFx9NhYsnbE7mrh7ocrgUr4ja0PRbex6pTI2GC6frkU5Oen-TDBvhdUmWE8A7hJv7NnSuQTaJmFI-UJkK5F9FfQ~5OEuYO78RgHRTxI60mlDVTafGVhnfWh4EwGtNCMj6Or~gO0yC4JDCHvoX25SRDpStb~ANBx6ZfJFXsLyXZZ1NX0f3XoU0aLpd6c1gJ1z5RQ8OYRVA~JzWq-GSKzQ9v~blOCaqH5YRX35DW35dk5sxN5PU0bwt3sKYvumJbo5zzyyDwfw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1074/jbc.m708431200
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021925820714407-gr6.jpg
+
+- id: doi:10.1074/jbc.m608854200
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021925820767116-gr4.jpg
+
+- id: doi:10.1111/j.1365-313x.2007.03047.x
+  image: https://onlinelibrary.wiley.com/cms/asset/ee261f7c-0d41-4d2c-891b-2368c4d5f6c1/tpj_3047_f4.gif
+
+- id: doi:10.1091/mbc.e04-08-0736
+  image: https://www.molbiolcell.org/cms/10.1091/mbc.e04-08-0736/asset/images/large/zmk0030530580001.jpeg

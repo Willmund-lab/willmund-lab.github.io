@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the Centre for Synthetic Microbiology and is affiliated with the Biology Department of the Philipps University of Marburg. Located on the ground floor, our lab focuses on research and innovation in molecular plant biology and synthetic biology. We aim to create a collaborative environment for scientists and students.
+Our lab is part of the Centre for Synthetic Microbiology (SYNMIKRO) and is affiliated with the Biology Department of the Philipps University of Marburg. Located on the ground floor, our lab focuses on research and innovation in molecular plant biology and synthetic biology. We aim to create a collaborative environment for scientists and students.
 
 {%
   include button.html
