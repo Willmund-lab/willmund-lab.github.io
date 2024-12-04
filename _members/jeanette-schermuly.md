@@ -7,4 +7,5 @@ links:
   email: jeanette.schermuly@staff.uni-marburg.de
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Jeanette is lab technician in the Willmund lab and has been working at the University of Marburg for over 10 years.
+Her tasks include occupational safety, management of the strain collection, lab organization and supporting scientists with molecular biological and protein biochemical experiments.
