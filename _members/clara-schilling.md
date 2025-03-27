@@ -1,7 +1,7 @@
 ---
 name: Clara Schilling
 image: images/team/Clara_Schilling.jpg
-role: master
+role: phd
 affiliation: Philipps University of Marburg
 ---
 

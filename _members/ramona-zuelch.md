@@ -1,9 +1,8 @@
 ---
 name: Ramona Zülch
 image: images/team/Ramona_Zuelch.jpg
-role: master
+role: phd
 affiliation: Philipps University of Marburg
-group: master
 links:
     email: zuelch@students.uni-marburg.de
 ---

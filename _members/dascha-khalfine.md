@@ -1,7 +1,7 @@
 ---
 name: Dascha Khalfine
 image: images/team/Dascha_Khalfine.jpg
-role: master
+role: phd
 affiliation: Philipps University of Marburg
 links:
     email: khalfine@students.uni-marburg.de
