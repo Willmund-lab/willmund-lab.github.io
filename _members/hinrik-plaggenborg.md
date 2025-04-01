@@ -1,6 +1,6 @@
 ---
 name: Hinrik Plaggenborg
-image: images/team/Hinrik_Plaggenborg.jpg
+image: images/team/Hinrik.webp
 role: phd
 affiliation: Philipps University of Marburg
 links:

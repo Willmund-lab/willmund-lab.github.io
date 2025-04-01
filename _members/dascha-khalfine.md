@@ -1,6 +1,6 @@
 ---
 name: Dascha Khalfine
-image: images/team/Dascha_Khalfine.jpg
+image: images/team/Dascha.webp
 role: phd
 affiliation: Philipps University of Marburg
 links:

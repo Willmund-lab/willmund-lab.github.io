@@ -1,9 +1,8 @@
 ---
 name: Sarah Abdul-Mawla
-image: images/team/Sarah_Abdul_Mawla.jpg
-role: master
+image: images/team/Sarah.webp
+role: phd
 affiliation: Philipps University of Marburg
-group: master
 links:
     email: abdulmaw@staff.uni-marburg.de
 ---

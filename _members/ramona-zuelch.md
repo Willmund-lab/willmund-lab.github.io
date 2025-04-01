@@ -1,6 +1,6 @@
 ---
 name: Ramona Zülch
-image: images/team/Ramona_Zuelch.jpg
+image: images/team/Ramona.webp
 role: phd
 affiliation: Philipps University of Marburg
 links:
