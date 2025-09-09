@@ -5,4 +5,4 @@ role: phd
 affiliation: Philipps University of Marburg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I’m interested in the co-translational regulation in C. reinhardtii chloroplasts by ABCF proteins. Moreover, I’m working on molecular chaperones and their impact on protein folding and translocation in chloroplasts. 
