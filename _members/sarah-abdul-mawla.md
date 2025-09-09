@@ -7,4 +7,4 @@ links:
     email: abdulmaw@staff.uni-marburg.de
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hello everybody, I am Sarah and I am a PhD student. I mainly work with Chlamydomonas reinhardtii and I am trying to shed light on the assembly and maturation of RubisCO, especially related to the trigger factor.
