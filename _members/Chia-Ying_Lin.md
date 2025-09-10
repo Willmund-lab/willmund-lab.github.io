@@ -1,6 +1,6 @@
 ---
 name: Chia-Ying Lin
-image: images/team/jiajia.jpg
+image: images/team/Jiajia.jpg
 role: phd
 affiliation: Philipps University of Marburg
 links:
