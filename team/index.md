@@ -23,6 +23,9 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'bachelor'" style="small" %}
 {% include list.html data="members" component="portrait" filter="role == 'hiwi'" style="small" %}
 
+## Alumni
+
+{% include list.html data="members" component="portrait" filter="role == 'alumn'" style="small" %}
 
 
 
