@@ -8,4 +8,3 @@ links:
     orcid: 0000-0002-3988-4590
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
