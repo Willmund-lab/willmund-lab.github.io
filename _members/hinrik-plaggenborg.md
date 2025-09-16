@@ -4,6 +4,6 @@ image: images/team/Hinrik.webp
 role: phd
 affiliation: Philipps University of Marburg
 links:
-  email: plaggenborg@biologie.uni-marburg.de
+  email: hinrik.plaggenborg@synmikro.uni-marburg.de
 ---
 

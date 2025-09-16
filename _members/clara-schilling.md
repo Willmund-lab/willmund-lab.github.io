@@ -7,3 +7,4 @@ links:
     email: schilliq@staff.uni-marburg.de
 ---
 
+I’m interested in the co-translational regulation in C. reinhardtii chloroplasts by ABCF proteins. Moreover, I’m working on molecular chaperones and their impact on protein folding and translocation in chloroplasts. 
