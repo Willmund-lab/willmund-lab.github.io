@@ -42,6 +42,10 @@ secretary:
   icon: fa-solid fa-info
   description: Secretary
 
+coordinator:
+  icon: fa-solid fa-info
+  description: Scientific coordinator
+
 # general
 
 link:
