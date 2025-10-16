@@ -8,7 +8,7 @@ nav:
 # Willmund-lab
 
 
-Our lab focuses on understanding the factors regulating protein synthesis during acclimation and stress resilience in plants. We investigate protein biogenesis and photosystem assembly in the chloroplast, as well as explore innovative approaches in chloroplast synthetic biology.
+Our research group focusses on understanding protein biogenesis in the chloroplast of green alga and land plants. Chloroplast protein biogenesis is an important regulator step that helps plants to adjust their photosynthesis machinery and other important biochemical processes to changing environmental conditions. Understanding these processes in particularly important in the context of global warming, with increased extreme weather events, that challenge photosynthesis, and has direct impact on plant production and thus our food supply. We couple these basic research themes with innovative synthetic biology approaches, in order to implement our findings and engineer novel chloroplast pathways.
 
 {% include section.html %}
 
