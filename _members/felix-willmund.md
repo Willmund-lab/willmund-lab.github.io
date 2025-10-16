@@ -6,7 +6,6 @@ affiliation: Philipps University of Marburg
 links:
     email: felix.willmund@biologie.uni-marburg.de
     orcid: 0000-0002-3988-4590
-    scholar: xiI6o1QAAAAJ&hl
 ---
 
 **Consulting hours:** Please contact me by email
