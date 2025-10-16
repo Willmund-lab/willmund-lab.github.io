@@ -1,7 +1,7 @@
 - title: Molecular chaperones in the Chloroplast
   subtitle: 
   group: featured
-  image: images/Bild 1.tiff
+  image: images/Bild 1.png
   link: 
   description: Throughout their lifespan, proteins are guided by a number of factors that facilitate their maturation and that help proteins to gain their functionality even under stress and denaturing conditions. Many of these factors belong to the family of molecular chaperones. We are currently focusing on two molecular chaperones that act early during maturation of a nascent polypeptide. We investigated a previously overlooked protein, termed trigger factor. Trigger factor has a dragon-shaped conformation and binds on translating ribosomes, presumable to assist the emerging polypeptide to achieve folding. We are currently trying to understand which of the essential chloroplast-encoded subunits of the photosynthesis machinery require this chaperone during maturation. In addition, we try to understand the mechanism of the CPN60 machinery. CPN60 contains two stacked rings of 7 subunits each and it is known that this chaperon is important for Rubisco folding. Our goal is to understand, why CPN60 evolved a much more complicated composition when compared to its bacterial ortholog and how this contributes to the folding requirements within the chloroplast.
   repo: greenelab/lab-website-template
