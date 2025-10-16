@@ -14,7 +14,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'scientific staff'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'secretary'" %}
-
+{% include list.html data="members" component="portrait" filter="role == 'coordinator'" %}
 
 {% include section.html %}
 
