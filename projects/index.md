@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We offer a variety of exciting projects for students, ranging from investigating the molecular mechanisms of protein synthesis in chloroplasts to developing innovative tools for synthetic biology. Our projects provide hands-on experience with cutting-edge techniques and the opportunity to contribute to impactful research in plant biology.
 
 {% include tags.html tags="publication, resource, website" %}
 
