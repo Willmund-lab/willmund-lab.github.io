@@ -15,12 +15,9 @@ We offer a variety of exciting projects for students, ranging from investigating
 
 {% include section.html %}
 
-## Featured
+## Our projects
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
