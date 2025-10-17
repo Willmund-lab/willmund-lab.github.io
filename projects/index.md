@@ -9,7 +9,7 @@ nav:
 
 We offer a variety of exciting projects for students, ranging from investigating the molecular mechanisms of protein synthesis in chloroplasts to developing innovative tools for synthetic biology. Our projects provide hands-on experience with cutting-edge techniques and the opportunity to contribute to impactful research in plant biology.
 
-{% include tags.html tags="publication, resource, website" %}
+<!--{% include tags.html tags="publication, resource, website" %}-->
 
 {% include search-info.html %}
 
