@@ -10,7 +10,7 @@
 - title: Regulation of chloroplast protein synthesis 
   subtitle: 
   group: featured
-  image: images/Bild 2.png
+  image: images/Bild2_neu.png
   link: 
   description: After endosymbiosis, many genes of the former cyanobacteria-like endosymbiont were transferred from the chloroplast to the nucleus of the plant cell. However, several genes remained on the plastidic genome, mainly comprising essential subunits of the photosynthesis machinery and the gene expression apparatus. Interestingly, expression of these genes is strictly regulated on a co-translational level, presumably for allowing quick and efficient adjustments to compensate environmental changes. Previously, we aimed to understand which proteins interact with the chloroplast ribosome, in order to better understand which players may conduct a regulatory function. We identified a large network of proteins and could show how the chloroplast ribosome is closely embedded into several biochemical pathways. We are now aiming to better understand the function of several of these identified factors. Moreover, the chloroplast protein synthesis machinery is an intriguing process for quantitative modelling due to its reduction (e.g. lower number of tRNAs), when compared to other systems. We explore the underlying rates of translation that will allow to comprehensively determine dynamics and limitations of protein synthesis. 
   repo: greenelab/lab-website-template
