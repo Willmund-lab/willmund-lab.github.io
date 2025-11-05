@@ -54,7 +54,7 @@ We offer a variety of exciting projects for students, ranging from investigating
 
 {%
   include feature.html
-  image="images/Bild Projects.tiff"
+  image="images/Bild Projects.png"
   link="projects"
   title="Our Projects"
   flip=true
