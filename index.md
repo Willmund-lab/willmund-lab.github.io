@@ -31,7 +31,7 @@ The main focus of our lab is about understanding the complex formation of the ph
 
 {%
   include feature.html
-  image="images/Flasks.jpg"
+  image="images/Bild Research.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -54,7 +54,7 @@ We offer a variety of exciting projects for students, ranging from investigating
 
 {%
   include feature.html
-  image="images/Projects.jpg"
+  image="images/Bild Projects.tiff"
   link="projects"
   title="Our Projects"
   flip=true
