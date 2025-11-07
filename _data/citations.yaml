@@ -1,5 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/1873-3468.70008/v2/response1
+  title: Author response for "Structural and mechanistic basis for the regulation
+    of the chloroplast signal recognition particle by (p)&lt;scp&gt;ppGpp&lt;/scp&gt;"
+  authors:
+  - ' Victor Zegarra'
+  - ' Paul Weiland'
+  - ' Pauline Anka Plitzko'
+  - ' Julia Thiery'
+  - ' Laura Czech'
+  - ' Felix Willmund'
+  - ' Patricia Bedrunka'
+  - ' Gert Bange'
+  publisher: Wiley
+  date: '2025-01-20'
+  link: https://doi.org/g963z5
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-025-55813-1
+  title: A truncated variant of the ribosome-associated trigger factor specifically
+    contributes to plant chloroplast ribosome biogenesis
+  authors:
+  - Fabian Ries
+  - Jasmin Gorlt
+  - Sabrina Kaiser
+  - Vanessa Scherer
+  - Charlotte Seydel
+  - Sandra Nguyen
+  - Andreas Klingl
+  - Julia Legen
+  - Christian Schmitz-Linneweber
+  - Hinrik Plaggenborg
+  - Jediael Z. Y. Ng
+  - Dennis Wiens
+  - Georg K. A. Hochberg
+  - "Markus R\xE4schle"
+  - "Torsten M\xF6hlmann"
+  - David Scheuring
+  - Felix Willmund
+  publisher: Nature Communications
+  date: '2025-01-13'
+  link: https://doi.org/g963z6
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/tpj.16577
   title: "Utilizing high\u2010resolution ribosome profiling for the global investigation\
     \ of gene expression in <i>Chlamydomonas</i>"
@@ -55,6 +100,29 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/02/13/2023.02.13.528309/F1.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1093/plphys/kiad015
+  title: One-helix protein 2 is not required for the synthesis of photosystem II subunit
+    D1 in Chlamydomonas
+  authors:
+  - Fei Wang
+  - Korbinian Dischinger
+  - "Lisa D\xE9sir\xE9e Westrich"
+  - Irene Meindl
+  - Felix Egidi
+  - "Raphael Tr\xF6sch"
+  - Frederik Sommer
+  - Xenie Johnson
+  - Michael Schroda
+  - Joerg Nickelsen
+  - Felix Willmund
+  - Olivier Vallon
+  - Alexandra-Viola Bohne
+  publisher: Plant Physiology
+  date: '2023-01-17'
+  link: https://doi.org/g963z7
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.01.05.522938
   title: Competition co-immunoprecipitation reveals interactors of the chloroplast
     CPN60 chaperonin machinery
@@ -73,6 +141,33 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2023.01.05.522938/F1.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1016/b978-0-12-821430-5.00014-6
+  title: Translation and protein synthesis in the chloroplast
+  authors:
+  - Felix Willmund
+  - Charles Hauser
+  - William Zerges
+  publisher: The Chlamydomonas Sourcebook
+  date: '2023-01-01'
+  link: https://doi.org/g963z8
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2210/pdb7zgi/pdb
+  title: chloroplast trigger factor (TIG1)
+  authors:
+  - Y. Carius
+  - F. Ries
+  - K. Gries
+  - O. Trentmann
+  - F. Willmund
+  - C.R.D. Lancaster
+  publisher: Worldwide Protein Data Bank
+  date: '2022-04-03'
+  link: https://doi.org/g963z9
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1107/S2059798322009068
   title: "Structural features of chloroplast trigger factor determined at 2.6\u2005\
     \xC5 resolution"
@@ -90,6 +185,29 @@
   plugin: sources.py
   file: sources.yaml
   image: https://journals.iucr.org/d/issues/2022/10/00/jv5013/jv5013fig1mag.jpg
+- id: doi:10.1093/plcell/koab317
+  title: Fast and global reorganization of the chloroplast protein biogenesis network
+    during heat acclimation
+  authors:
+  - "Raphael Tr\xF6sch"
+  - Fabian Ries
+  - "Lisa D\xE9sir\xE9e Westrich"
+  - Yang Gao
+  - Claudia Herkt
+  - "Julia Hoppst\xE4dter"
+  - Johannes Heck-Roth
+  - Matthieu Mustas
+  - David Scheuring
+  - Yves Choquet
+  - "Markus R\xE4schle"
+  - Reimo Zoschke
+  - Felix Willmund
+  publisher: The Plant Cell
+  date: '2021-12-27'
+  link: https://doi.org/g9632b
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-021-25288-x
   title: Systems approaches identify the consequences of monosomy in somatic human
     cells
@@ -135,6 +253,62 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2021/02/23/2021.02.22.432226/F1.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1111/tpj.15144
+  title: "Acclimation in plants \u2013 the Green Hub consortium"
+  authors:
+  - Tatjana Kleine
+  - "Thomas N\xE4gele"
+  - H. Ekkehard Neuhaus
+  - "Christian Schmitz\u2010Linneweber"
+  - Alisdair R. Fernie
+  - Peter Geigenberger
+  - Bernhard Grimm
+  - Kerstin Kaufmann
+  - Edda Klipp
+  - "J\xF6rg Meurer"
+  - "Torsten M\xF6hlmann"
+  - "Timo M\xFChlhaus"
+  - Belen Naranjo
+  - "J\xF6rg Nickelsen"
+  - Andreas Richter
+  - Hannes Ruwe
+  - Michael Schroda
+  - Serena Schwenkert
+  - Oliver Trentmann
+  - Felix Willmund
+  - Reimo Zoschke
+  - Dario Leister
+  publisher: The Plant Journal
+  date: '2021-01-31'
+  link: https://doi.org/g9632c
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkaa1192
+  title: The versatile interactome of chloroplast ribosomes revealed by affinity purification
+    mass spectrometry
+  authors:
+  - "Lisa D\xE9sir\xE9e Westrich"
+  - Vincent Leon Gotsmann
+  - Claudia Herkt
+  - Fabian Ries
+  - Tanja Kazek
+  - "Raphael Tr\xF6sch"
+  - Laura Armbruster
+  - "Jens Stephan M\xFChlenbeck"
+  - Silvia Ramundo
+  - "J\xF6rg Nickelsen"
+  - Iris Finkemeier
+  - Markus Wirtz
+  - "Zuzana Storchov\xE1"
+  - "Markus R\xE4schle"
+  - Felix Willmund
+  publisher: Nucleic Acids Research
+  date: '2020-12-16'
+  link: https://doi.org/g345gx
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.ppat.1008326
   title: CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere
     vectors allows highly efficient marker-free and multiple genome editing in Botrytis
@@ -157,6 +331,41 @@
   plugin: sources.py
   file: sources.yaml
   image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.ppat.1008326/2/ppat.1008326.g005.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20241127%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241127T162631Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=62d5abfbd96f0b34761353d3f0da2b1650c342f13dacbf254d14fa7ae7c0cf18b84ef8fc8e334b4c99cd1ee055f69d3844c0c1c4b796ecf851fe24e8e4a71b074eb03a241dd43515f5bd4c8bde9cbe55722ef6308ef0357a177109a7f4eff2f25afdecfac59292bf71bb5021b01e402bf5447f3a22f2bc041c86b2ab83426fdfb4568f1850fa220bf06951730376bcb1c8cb507105378c48bff7cf936e9e2691bec3eaa8df32fa4d86285568951b2fcfb2d93227b4ea6123b5583733589735d317289cb0f37914d8a9d784359be6657091ee2fb2423e502a55877c78007107f0e479575dd2906fc1b8aae47e5b5833d352329383b617906dc606aea669f05749
+- id: doi:10.1111/pce.13732
+  title: VIPP2 interacts with VIPP1 and HSP22E/F at chloroplast membranes and modulates
+    a retrograde signal for <i>HSP22E/F</i> gene expression
+  authors:
+  - Jasmine Theis
+  - Justus Niemeyer
+  - Stefan Schmollinger
+  - Fabian Ries
+  - "Mark R\xFCtgers"
+  - Tilak Kumar Gupta
+  - Frederik Sommer
+  - Ligia Segatto Muranaka
+  - Benedikt Venn
+  - "Miriam Schulz\u2010Raffelt"
+  - Felix Willmund
+  - Benjamin D. Engel
+  - Michael Schroda
+  publisher: Plant, Cell &amp; Environment
+  date: '2020-02-28'
+  link: https://doi.org/ghwcrh
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/plants9020214
+  title: Co-Translational Protein Folding and Sorting in Chloroplasts
+  authors:
+  - Fabian Ries
+  - Claudia Herkt
+  - Felix Willmund
+  publisher: Plants
+  date: '2020-02-07'
+  link: https://doi.org/g9632d
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.01.20.912576
   title: CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere
     vectors allows highly efficient marker-free and multiple genome editing in<i>Botrytis
@@ -203,6 +412,18 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2019/12/16/2019.12.12.874503/F1.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1007/s12268-019-1018-x
+  title: 'Chloroplasten-Proteinbiogenese: angepasst an das phototrophe Leben'
+  authors:
+  - "Lisa D\xE9sir\xE9e Westrich"
+  - Vincent Leon Gotsmann
+  - Felix Willmund
+  publisher: BIOspektrum
+  date: '2019-03-26'
+  link: https://doi.org/g9632f
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1104/pp.18.01252
   title: The Role of Plastidic Trigger Factor Serving Protein Biogenesis in Green
     Algae and Land Plants
@@ -497,3 +718,72 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.molbiolcell.org/cms/10.1091/mbc.e04-08-0736/asset/images/large/zmk0030530580001.jpeg
+- id: doi:10.1101/2024.05.08.593163
+  title: Advancing chloroplast synthetic biology through high-throughput plastome
+    engineering of<i>Chlamydomonas reinhardtii</i>
+  authors:
+  - "Ren\xE9 Inckemann"
+  - Tanguy Chotel
+  - Cedric K. Brinkmann
+  - Michael Burgis
+  - Laura Andreas
+  - Jessica Baumann
+  - Priyati Sharma
+  - Melanie Klose
+  - James Barrett
+  - Fabian Ries
+  - Nicole Paczia
+  - Timo Glatter
+  - Felix Willmund
+  - Luke C. M. Mackinder
+  - Tobias J. Erb
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-10'
+  link: https://doi.org/g9632g
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.11.16.567332
+  title: Guidelines for Performing Ribosome Profiling in Plants Including Structural
+    Analysis of rRNA Fragments
+  authors:
+  - Michael K. Y. Ting
+  - Yang Gao
+  - Rouhollah Barahimipour
+  - Rabea Ghandour
+  - Jinghan Liu
+  - Federico Martinez-Seidel
+  - Julia Smirnova
+  - Vincent Leon Gotsmann
+  - Axel Fischer
+  - Michael J. Haydon
+  - Felix Willmund
+  - Reimo Zoschke
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-17'
+  link: https://doi.org/g9632h
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.08.29.505686
+  title: OHP2 is not required for <i>psbA</i> translation in <i>Chlamydomonas</i>
+  authors:
+  - Fei Wang
+  - Korbinian Dischinger
+  - "Lisa D\xE9sir\xE9e Westrich"
+  - Irene Meindl
+  - Felix Egidi
+  - "Raphael Tr\xF6sch"
+  - Frederik Sommer
+  - Xenie Johnson
+  - Michael Schroda
+  - Joerg Nickelsen
+  - Felix Willmund
+  - Olivier Vallon
+  - Alexandra-Viola Bohne
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-29'
+  link: https://doi.org/g9632j
+  orcid: 0000-0002-3988-4590
+  plugin: orcid.py
+  file: orcid.yaml

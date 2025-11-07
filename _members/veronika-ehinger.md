@@ -1,7 +1,7 @@
 ---
 name: Veronika Ehinger
 image: images/team/Veronika_.jpg
-role: secretary
+role: coordinator
 affiliation: Philipps University of Marburg
 links:
     email: ehinger6@staff.uni-marburg.de
