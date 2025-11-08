@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-laptop-code" %}Research
+# {% include icon.html icon="fa-solid fa-flask-vial" %}Research
 
 Explore our lab's research! We've been dedicated to advancing science and making significant discoveries. Below is a list of our publications. Take a look and see our work!
 
