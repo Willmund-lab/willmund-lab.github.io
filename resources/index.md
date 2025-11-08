@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-laptop-code" %}Projects
+# {% include icon.html icon="fa-solid fa-laptop-code" %}Resources
 
 This page provides quick access to our main online resources.
 
