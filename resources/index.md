@@ -16,9 +16,10 @@ This page provides quick access to our main online resources.
 
 ## DNA Assembly Resources
 
-- [**Chloroplast MoClo Collection**](https://github.com/ChlamyMarburg/ChloroplastTools)  
-  [A modular cloning toolkit](https://www.nature.com/articles/s41477-025-02126-2) for engineering the *Chlamydomonas reinhardtii* chloroplast genome. The collection includes standardized parts, assembly vectors, and documentation for construct design.
+- [**Chloroplast MoClo Collection**](https://www.nature.com/articles/s41477-025-02126-2)  
+  The **Chloro**plast **Mod**ular **A**ssembly **S**ystem (**CHLOROMODAS**) provides a versatile toolkit for engineering the C. reinhardtii chloroplast genome. It uses a hierarchical Golden Gate-based cloning strategy to assemble standardized genetic parts — promoters, UTRs, coding sequences, terminators, and specialized connectors — into single transcription units (Level 1) or multigene constructs (Level 2). The system incorporates chloroplast-specific homology regions for precise site-directed integration, enabling flexible and efficient genome editing.
 
+  [Link to GitHub](https://github.com/ChlamyMarburg/ChloroplastTools)
 
 - [**Addgene Distribution Page**](https://www.addgene.org/kits/erb-chloromodas/)  
   The Chloroplast MoClo kit is available through Addgene for distribution to the research community.
