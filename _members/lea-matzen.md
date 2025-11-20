@@ -1,6 +1,6 @@
 ---
 name: Lea Matzen
-image: images/team/
+image: images/team/Lea_Matzen.jpg
 role: Bachelor
 affiliation: Philipps University of Marburg
 links:
