@@ -1,7 +1,7 @@
 ---
 name: Imke Fortmeier
 image: images/photo.jpg
-role: bachelor
+role: alumn
 affiliation: Philipps University of Marburg
 links:
     email: fortmeier@students.uni-marburg.de

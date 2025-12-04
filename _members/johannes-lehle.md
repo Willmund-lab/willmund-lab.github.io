@@ -1,7 +1,7 @@
 ---
 name: Johannes Lehle
 image: images/team/Johannes_Lehle.jpg
-role: master
+role: alumn
 affiliation: Philipps University of Marburg
 links:
     email: Lehle@students.uni-marburg.de

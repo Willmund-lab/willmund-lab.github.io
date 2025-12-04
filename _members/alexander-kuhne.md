@@ -1,6 +1,6 @@
 ---
 name: Alexander Kuhne
 image: images/photo.jpg
-role: master
+role: alumn
 affiliation: Philipps University of Marburg
 ---
