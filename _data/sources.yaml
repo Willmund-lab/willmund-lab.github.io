@@ -46,6 +46,9 @@
 - id: doi:10.1016/b978-0-12-821430-5.00014-6
   image: https://ars.els-cdn.com/content/image/3-s2.0-C20190028105-cov200h.gif
 
+- id: doi:10.1101/2023.11.16.567332
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/11/17/2023.11.16.567332/F2.large.jpg
+
 - id: doi:10.1101/2023.01.05.522938
   image: https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2023.01.05.522938/F1.large.jpg?width=800&height=600&carousel=1
 
@@ -59,7 +62,7 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/29/2023.09.29.560113/F2.large.jpg?width=800&height=600&carousel=1
 
 - id: doi:10.1186/s13007-024-01267-3
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/11/17/2023.11.16.567332/F1.large.jpg?width=800&height=600&carousel=1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13007-024-01267-3/MediaObjects/13007_2024_1267_Fig2_HTML.png?as=webp
 
 - id: doi:10.1101/2024.05.08.593163
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-025-02126-2/MediaObjects/41477_2025_2126_Fig1_HTML.png?as=webp
