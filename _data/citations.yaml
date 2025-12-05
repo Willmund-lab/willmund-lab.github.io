@@ -16,8 +16,9 @@
   date: '2025-01-20'
   link: https://doi.org/g963z5
   orcid: 0000-0002-3988-4590
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/eb47cec9-50a3-405e-bdc8-9fcf98fad3bd/feb270008-fig-0003-m.jpg
 - id: doi:10.1038/s41467-025-55813-1
   title: A truncated variant of the ribosome-associated trigger factor specifically
     contributes to plant chloroplast ribosome biogenesis
@@ -787,21 +788,3 @@
   orcid: 0000-0002-3988-4590
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/1873-3468.70008
-  title: "Structural and mechanistic basis for the regulation of the chloroplast signal\
-    \ recognition particle by (p)\n                    <scp>ppGpp</scp>"
-  authors:
-  - Victor Zegarra
-  - Paul Weiland
-  - Pauline Anka Plitzko
-  - Julia Thiery
-  - Laura Czech
-  - Felix Willmund
-  - Patricia Bedrunka
-  - Gert Bange
-  publisher: FEBS Letters
-  date: '2025-02-11'
-  link: https://doi.org/hbdhz7
-  image: https://febs.onlinelibrary.wiley.com/cms/asset/eb47cec9-50a3-405e-bdc8-9fcf98fad3bd/feb270008-fig-0003-m.jpg
-  plugin: sources.py
-  file: sources.yaml
