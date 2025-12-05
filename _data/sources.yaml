@@ -1,5 +1,24 @@
+- id: doi:10.1016/b978-0-12-821430-5.00014-6
+  image: https://ars.els-cdn.com/content/image/3-s2.0-C20190028105-cov200h.gif
+
+- id: doi:10.1101/2023.01.05.522938
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2023.01.05.522938/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1093/plphys/kiad015
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/191/3/10.1093_plphys_kiad015/1/m_kiad015f2.jpeg?Expires=1767966974&Signature=OL7Pr8IKrN6mMabsh5CwVHBKuTv32wglad6lvVOaRnT31VKyD73jtwVIVdgnxJOEs6AF~nwnjHTvMRCIiXIBHxbH4fjWCKUco9sXVfEI3tgg5~EA9EkMgXVH~EbgKeaH94WH7cV5v8EKbw2ZuB0FpyTCt57TRIEw99QcuBeha5xwdxi3DFuAI0o~0c-7p7Bg1-hLICyF74K5HlvvvkJs3kV0C2EXfxdAK85REPFLNd~0swOXcVEkhSe8U88KF3BE6AdDYaTckZZdiYXjJ8IOOed4-yHqQRz24f579d9hsk17LsuusTV5OO4ZyopGJ-sEb-2Zk7M3ogESu-GGuLvIqg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1101/2023.02.13.528309
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/02/13/2023.02.13.528309/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1101/2023.09.29.560113
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/29/2023.09.29.560113/F2.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1186/s13007-024-01267-3
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/11/17/2023.11.16.567332/F1.large.jpg?width=800&height=600&carousel=1
+
 - id: doi:10.1101/2024.05.08.593163
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-025-02126-2/MediaObjects/41477_2025_2126_Fig1_HTML.png?as=webp
+
 - id: doi:10.1038/s41467-025-55813-1
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-55813-1/MediaObjects/41467_2025_55813_Fig3_HTML.png?as=webp
 
