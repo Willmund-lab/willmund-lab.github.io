@@ -1,3 +1,33 @@
+- id: doi:10.1104/pp.105.063578
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/138/4/10.1104_pp.105.063578/4/m_plphys_v138_4_2310_f2.jpeg?Expires=1767777349&Signature=ZuSJdLiBCIJNbJEm5euRPjwoxd5KTzq2aHMnCuVc7j3tOv~AvXipYmTDIKCWbDVekWXYBqOl1rC3dLySLx2VYrCKbZ4hBCbI0yhkyV5WdyHpwgSvgyDKnqZiA3Ks0PxzTa8ZdxNJgLRYzwvzuKCaTxlTsFPryOc2XJmM7D9LtDC7T-6XL7fx7~yLuXeRJwDVTJOGGxDFSaH0uBZIr5Z8PMmuDleHatBRDrsEDwGaGUl6DcviMP-AfiWnNbwDY~Odre6H9tDlnY-rQuLplDPVvihyRgc-lg3JhjfgZW0iSPIINBbovtQZMY8DK9TSRoUeKLYvgsJHMcJ3Rlajh0y4ig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1042/bj20091412
+  image: https://portlandpress.com/view-large/figure/2274083/bj4270205fig2.jpeg
+
+- id: doi:10.1104/pp.18.01252
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/179/3/10.1104_pp.18.01252/2/m_plphys_v179_3_1093_f1.jpeg?Expires=1767968379&Signature=Xk4DWrXC1t7R1p63Cj-g~LmXSBHQQULLd8o0SSzlpRsdg2sjnuouhz0UFLg2Ge6wUS530GkAEs-FAZdoChFzKVnQtl6SL30ORUyoKvoPoHvxZXo6SG1FfzjOgj2nUOwW7nGNnEiav74sj5aYNEJCnohe-2ybP3DVsYMTs~TxviV~cr3s5V~0mltAxK5PpYu5f3ROLXdvdtV6XrCjkY865DOus3vIKdDgS1cTsZ9BzIWxjrLURzQ5TyooEH4MupxCzuMm~ZnzeNhQjY7Ty9HRi9KVIoL9il-saVGm88Dx9M0G8F0Miw0cb1ezv6LMNDMVdAr-3rwcpbpxAWsk2vk3PQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1007/s12268-019-1018-x
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/12268?as=webp
+
+- id: doi:10.1101/2019.12.12.874503
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/12/16/2019.12.12.874503/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1101/2020.01.20.912576
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/01/20/2020.01.20.912576/F1.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.3390/plants9020214
+  image: https://www.mdpi.com/plants/plants-09-00214/article_deploy/html/images/plants-09-00214-g001.png
+
+- id: doi:10.1111/pce.13732
+  image: https://onlinelibrary.wiley.com/cms/asset/1f747e0c-7d40-4151-bbef-213f4d68fca6/pce13732-fig-0002-m.jpg
+
+- id: doi:10.1371/journal.ppat.1008326
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.ppat.1008326/2/ppat.1008326.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251205T141507Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=b212b4b56462605eb95f00ff25d739e2044cbc77037c5d04c0e55ff02f674d49ec82bbea248492381ec851feac8e3568ce32f8080fea7e652e2e10b4fa6a3c678475c78d267d66a0b57886be4e1414048291742fbf9eb9e0ee4965de8c4ff64aea1ccc5f68eb8b6e1ba8f44f1d8cbea524950c8dc67eb2b90eaf34ceabd665fd5d5e293e782287ca837ea654da21e5d11b8deab169f7a3a9cb74d0f593affb2f14c31c9939809e7853d00171ec706324f981acd1531c79a7e5a88a677ed8bcb2668eb9dc305d63302327f9012b94090c194603d22e727ece9636d0f2efa1d49f81ac5d25a1f60d42702022017dba323ff0cc5cc277b91aa0daed3e80d9d53537
+
+- id: doi:10.1093/nar/gkaa1192
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/49/1/10.1093_nar_gkaa1192/1/m_gkaa1192fig1.jpeg?Expires=1767900424&Signature=Bl5FCHe~QcpQkUsYiEoQ-6O2JT3OgP9KcVnGcDm9wY4TERFXikicDVwXr-0C67pvErZVABkwwumC3~AKi5O48XrnOTp63wEj0iY1rtSknj1iUf827myYlayT~MS3AaRF~EHTYHMqJBQ2-xqH9SVE2oV~yEdsOv-hj6YM~KhHFM6b4qALZtUCVUjj4wwQIcfPnde8XuC2hy~tHetyMlb1UhDveH~TmmtG3-7kg1PnghpxuEPlNREwdCxlct7ICrBx6imP9yIay1CIR2CD-tjNMJ6~OnVQd3xwueAjpIyIKHckouKZKfsgMpsGsyA1iL8aUSQeeGS6pkhBOMdOmyqiug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
 - id: doi:10.1111/tpj.15144
   image: https://onlinelibrary.wiley.com/cms/asset/de3446e4-9684-4905-bcc9-ea8acffb45c5/tpj15144-fig-0001-m.jpg
 
