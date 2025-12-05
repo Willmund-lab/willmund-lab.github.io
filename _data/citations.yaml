@@ -314,8 +314,9 @@
   date: '2020-12-16'
   link: https://doi.org/g345gx
   orcid: 0000-0002-3988-4590
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/49/1/10.1093_nar_gkaa1192/1/m_gkaa1192fig1.jpeg?Expires=1767900424&Signature=Bl5FCHe~QcpQkUsYiEoQ-6O2JT3OgP9KcVnGcDm9wY4TERFXikicDVwXr-0C67pvErZVABkwwumC3~AKi5O48XrnOTp63wEj0iY1rtSknj1iUf827myYlayT~MS3AaRF~EHTYHMqJBQ2-xqH9SVE2oV~yEdsOv-hj6YM~KhHFM6b4qALZtUCVUjj4wwQIcfPnde8XuC2hy~tHetyMlb1UhDveH~TmmtG3-7kg1PnghpxuEPlNREwdCxlct7ICrBx6imP9yIay1CIR2CD-tjNMJ6~OnVQd3xwueAjpIyIKHckouKZKfsgMpsGsyA1iL8aUSQeeGS6pkhBOMdOmyqiug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1371/journal.ppat.1008326
   title: CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere
     vectors allows highly efficient marker-free and multiple genome editing in Botrytis
@@ -359,8 +360,9 @@
   date: '2020-02-28'
   link: https://doi.org/ghwcrh
   orcid: 0000-0002-3988-4590
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/1f747e0c-7d40-4151-bbef-213f4d68fca6/pce13732-fig-0002-m.jpg
 - id: doi:10.3390/plants9020214
   title: Co-Translational Protein Folding and Sorting in Chloroplasts
   authors:
@@ -371,8 +373,9 @@
   date: '2020-02-07'
   link: https://doi.org/g9632d
   orcid: 0000-0002-3988-4590
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/plants/plants-09-00214/article_deploy/html/images/plants-09-00214-g001.png
 - id: doi:10.1101/2020.01.20.912576
   title: CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere
     vectors allows highly efficient marker-free and multiple genome editing in<i>Botrytis
@@ -429,8 +432,9 @@
   date: '2019-03-26'
   link: https://doi.org/g9632f
   orcid: 0000-0002-3988-4590
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/12268?as=webp
 - id: doi:10.1104/pp.18.01252
   title: The Role of Plastidic Trigger Factor Serving Protein Biogenesis in Green
     Algae and Land Plants
@@ -705,8 +709,9 @@
   date: '2005-07-01'
   link: https://doi.org/dkjst4
   orcid: 0000-0002-3988-4590
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/138/4/10.1104_pp.105.063578/4/m_plphys_v138_4_2310_f2.jpeg?Expires=1767777349&Signature=ZuSJdLiBCIJNbJEm5euRPjwoxd5KTzq2aHMnCuVc7j3tOv~AvXipYmTDIKCWbDVekWXYBqOl1rC3dLySLx2VYrCKbZ4hBCbI0yhkyV5WdyHpwgSvgyDKnqZiA3Ks0PxzTa8ZdxNJgLRYzwvzuKCaTxlTsFPryOc2XJmM7D9LtDC7T-6XL7fx7~yLuXeRJwDVTJOGGxDFSaH0uBZIr5Z8PMmuDleHatBRDrsEDwGaGUl6DcviMP-AfiWnNbwDY~Odre6H9tDlnY-rQuLplDPVvihyRgc-lg3JhjfgZW0iSPIINBbovtQZMY8DK9TSRoUeKLYvgsJHMcJ3Rlajh0y4ig__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1091/mbc.e04-08-0736
   title: J-Domain Protein CDJ2 and HSP70B Are a Plastidic Chaperone Pair That Interacts
     with Vesicle-Inducing Protein in Plastids 1
