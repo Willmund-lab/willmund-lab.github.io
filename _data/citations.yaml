@@ -778,7 +778,7 @@
   orcid: 0000-0002-3988-4590
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/11/17/2023.11.16.567332/F2.large.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13007-024-01267-3/MediaObjects/13007_2024_1267_Fig2_HTML.png?as=webp
 - id: doi:10.1101/2022.08.29.505686
   title: OHP2 is not required for <i>psbA</i> translation in <i>Chlamydomonas</i>
   authors:
