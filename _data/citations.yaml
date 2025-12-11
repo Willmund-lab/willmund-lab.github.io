@@ -84,7 +84,7 @@
   orcid: 0000-0002-3988-4590
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/02/07/2023.09.29.560113/F1.large.jpg?width=800&height=600&carousel=1
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJwwg-MpRWjZvOipNU9ebeHA4bFEn9lrQNw&s
 - id: doi:10.1101/2023.02.13.528309
   title: Utilizing high resolution ribosome profiling for the global investigation
     of gene expression in<i>Chlamydomonas</i>
@@ -101,7 +101,7 @@
   orcid: 0000-0002-3988-4590
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/02/13/2023.02.13.528309/F1.large.jpg?width=800&height=600&carousel=1
+  image: https://onlinelibrary.wiley.com/cms/asset/8ddc8221-75c2-4806-91d5-868b2be5000c/tpj16577-fig-0001-m.jpg
 - id: doi:10.1093/plphys/kiad015
   title: One-helix protein 2 is not required for the synthesis of photosystem II subunit
     D1 in Chlamydomonas
@@ -143,7 +143,7 @@
   orcid: 0000-0002-3988-4590
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2023.01.05.522938/F1.large.jpg?width=800&height=600&carousel=1
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2023.01.05.522938/F1.large.jpeg
 - id: doi:10.1016/b978-0-12-821430-5.00014-6
   title: Translation and protein synthesis in the chloroplast
   authors:
