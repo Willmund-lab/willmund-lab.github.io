@@ -78,7 +78,7 @@
   - Felix Willmund
   - Christopher Grefen
   - David Scheuring
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-09-29'
   link: https://doi.org/g8p7m6
   orcid: 0000-0002-3988-4590
@@ -86,8 +86,8 @@
   file: sources.yaml
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJwwg-MpRWjZvOipNU9ebeHA4bFEn9lrQNw&s
 - id: doi:10.1101/2023.02.13.528309
-  title: Utilizing high resolution ribosome profiling for the global investigation
-    of gene expression in<i>Chlamydomonas</i>
+  title: "Utilizing high resolution ribosome profiling for the global investigation\
+    \ of gene expression in\n                  <i>Chlamydomonas</i>"
   authors:
   - Vincent Leon Gotsmann
   - Michael Kien Yin Ting
@@ -95,7 +95,7 @@
   - Sophia Rudorf
   - Reimo Zoschke
   - Felix Willmund
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-02-13'
   link: https://doi.org/g8p7m7
   orcid: 0000-0002-3988-4590
@@ -137,7 +137,7 @@
   - Frederik Sommer
   - Michael Schroda
   - Felix Willmund
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-05'
   link: https://doi.org/g8p7m8
   orcid: 0000-0002-3988-4590
@@ -252,7 +252,7 @@
   - Maik Kschischo
   - Markus Raeschle
   - Zuzana Storchova
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-02-23'
   link: https://doi.org/gsxsrx
   orcid: 0000-0002-3988-4590
@@ -377,9 +377,9 @@
   file: sources.yaml
   image: https://www.mdpi.com/plants/plants-09-00214/article_deploy/html/images/plants-09-00214-g001.png
 - id: doi:10.1101/2020.01.20.912576
-  title: CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere
-    vectors allows highly efficient marker-free and multiple genome editing in<i>Botrytis
-    cinerea</i>
+  title: "CRISPR/Cas with ribonucleoprotein complexes and transiently selected telomere\
+    \ vectors allows highly efficient marker-free and multiple genome editing in\n\
+    \                  <i>Botrytis cinerea</i>"
   authors:
   - Thomas Leisen
   - Fabian Bietz
@@ -391,7 +391,7 @@
   - Andreas Mosbach
   - Gabriel Scalliet
   - Matthias Hahn
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-01-20'
   link: https://doi.org/gkwfvx
   orcid: 0000-0002-3988-4590
@@ -415,7 +415,7 @@
   - "Zuzana Storchov\xE1"
   - Markus Raeschle
   - Felix Willmund
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-12-16'
   link: https://doi.org/gk29d6
   orcid: 0000-0002-3988-4590
@@ -731,8 +731,8 @@
   file: sources.yaml
   image: https://www.molbiolcell.org/cms/10.1091/mbc.e04-08-0736/asset/images/large/zmk0030530580001.jpeg
 - id: doi:10.1101/2024.05.08.593163
-  title: Advancing chloroplast synthetic biology through high-throughput plastome
-    engineering of<i>Chlamydomonas reinhardtii</i>
+  title: "Advancing chloroplast synthetic biology through high-throughput plastome\
+    \ engineering of\n                  <i>Chlamydomonas reinhardtii</i>"
   authors:
   - "Ren\xE9 Inckemann"
   - Tanguy Chotel
@@ -749,7 +749,7 @@
   - Felix Willmund
   - Luke C. M. Mackinder
   - Tobias J. Erb
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-05-10'
   link: https://doi.org/g9632g
   orcid: 0000-0002-3988-4590
@@ -772,7 +772,7 @@
   - Michael J. Haydon
   - Felix Willmund
   - Reimo Zoschke
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-11-17'
   link: https://doi.org/g9632h
   orcid: 0000-0002-3988-4590
@@ -780,7 +780,8 @@
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13007-024-01267-3/MediaObjects/13007_2024_1267_Fig2_HTML.png?as=webp
 - id: doi:10.1101/2022.08.29.505686
-  title: OHP2 is not required for <i>psbA</i> translation in <i>Chlamydomonas</i>
+  title: "OHP2 is not required for\n                  <i>psbA</i>\n              \
+    \    translation in\n                  <i>Chlamydomonas</i>"
   authors:
   - Fei Wang
   - Korbinian Dischinger
@@ -795,7 +796,7 @@
   - Felix Willmund
   - Olivier Vallon
   - Alexandra-Viola Bohne
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-08-29'
   link: https://doi.org/g9632j
   orcid: 0000-0002-3988-4590
