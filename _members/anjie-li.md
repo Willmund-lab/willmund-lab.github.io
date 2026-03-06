@@ -1,7 +1,7 @@
 ---
 name: Anjie Li
 image: images/team/Anjie.jpg
-role: Postdoc
+role: postdoc
 affiliation: Philipps University of Marburg
 links:
     email: lianj@uni-marburg.de
