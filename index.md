@@ -80,7 +80,7 @@ Meet the individuals behind our research. Our team page highlights the expertise
 
 {%
   include feature.html
-  image="images/2025-03-27_AG-Gruppenfoto_v2.jpg"
+  image="images/Group Photo_2026.jpg"
   link="team"
   title="Our Team"
   text=text
